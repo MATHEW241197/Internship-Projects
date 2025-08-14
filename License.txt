@@ -1,0 +1,13 @@
+Copyright © 2025 Dr. Mathew Abraham
+
+All rights reserved.
+
+This repository and its contents (including but not limited to reports, dashboards, datasets, and posters) are provided for **academic viewing purposes only**.
+
+No part of this work may be:
+- Copied
+- Modified
+- Distributed
+- Used commercially
+
+without prior written consent from the author.
