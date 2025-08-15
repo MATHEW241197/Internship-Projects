@@ -17,14 +17,14 @@ The project focused on analyzing the distribution of inpatient cashless claims a
 - How do total cashless claim payout vary across hospital departments for different type of insurance companies?
   
 ## 📊 Methodology
-•	**Study Area:** Apollo Hospital, Bannerghatta Road, Bangalore
-•	**Research Design:** Descriptive analysis
-•	**Sampling Technique:** Purposive sampling 
-•	**Study Data:** TPAs/insurance company financed IPD credit claims (Excluded daycare cases)
-•	**Tools Used:** Excel and Power BI
-•	**Key parameters:** Submission Date, claim amount, insurer name, and Discharge Department name
-•	**Data Sources:** ClaimBook, HIS and physical documents (pre-auth approvals, final bills, and discharge summaries
-•	**Sample Size and Duration:** 507 cases collected over 3 weeks
+-	**Study Area:** Apollo Hospital, Bannerghatta Road, Bangalore
+-	**Research Design:** Descriptive analysis
+-	**Sampling Technique:** Purposive sampling 
+-	**Study Data:** TPAs/insurance company financed IPD credit claims (Excluded daycare cases)
+-	**Tools Used:** Excel and Power BI
+-	**Key parameters:** Submission Date, claim amount, insurer name, and Discharge Department name
+-	**Data Sources:** ClaimBook, HIS and physical documents (pre-auth approvals, final bills, and discharge summaries
+-	**Sample Size and Duration:** 507 cases collected over 3 weeks
 
 
 ## 📈 Key Insights
