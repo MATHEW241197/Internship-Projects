@@ -9,20 +9,23 @@ The project focused on analyzing the distribution of inpatient cashless claims a
 ## 🏥 Organization Profile
 - **Name:** Apollo Hospital, Bannerghatta Road, Bangalore  
 - **Accreditation:** JCI-accredited, 250-bed multispecialty hospital  
-- **Specialties:** Advanced minimally invasive procedures, complex cardiology, oncology, orthopaedics, gastroenterology, neurosurgery, and more.
+- **Specialties:** oncology, orthopaedics, gastroenterology, neurosurgery, and more.
 
 ## 🎯 Objectives
-- Identify the distribution of inpatient cashless claim volume across departments.  
-- Calculate the average insurance payment per claim for each department.  
-- Compare total payouts across departments for different insurer categories (PSUs, Private, SAHI).  
-
+- What is the distribution of inpatient cashless claim volume across hospital departments? 
+- What is the average insurance payment per cashless claim for each hospital department? 
+- How do total cashless claim payout vary across hospital departments for different type of insurance companies?
+  
 ## 📊 Methodology
-- **Study Area:** Apollo Hospital, Bannerghatta Road  
-- **Research Design:** Descriptive analysis  
-- **Sample Size:** 507 cases over 3 weeks  
-- **Data Sources:** ClaimBook RCM software & physical claim documents  
-- **Tools Used:** Microsoft Excel, Power BI  
-- **Sampling Technique:** Purposive sampling  
+•	**Study Area:** Apollo Hospital, Bannerghatta Road, Bangalore
+•	**Research Design:** Descriptive analysis
+•	**Sampling Technique:** Purposive sampling 
+•	**Study Data:** TPAs/insurance company financed IPD credit claims (Excluded daycare cases)
+•	**Tools Used:** Excel and Power BI
+•	**Key parameters:** Submission Date, claim amount, insurer name, and Discharge Department name
+•	**Data Sources:** ClaimBook, HIS and physical documents (pre-auth approvals, final bills, and discharge summaries
+•	**Sample Size and Duration:** 507 cases collected over 3 weeks
+
 
 ## 📈 Key Insights
 - **Cardiology** had the highest claim volume (18.34%) and average claim value (₹2.57 Lakh).  
@@ -35,14 +38,18 @@ The project focused on analyzing the distribution of inpatient cashless claims a
 - Implement automation for pre-authorization and claim documentation.  
 
 ## 📂 Repository Structure
-📁 SIP_Apollo_Hospital_IPD_Claims_Analysis
+📁 SIP
+
 ┣ 📄 README.md
-┣ 📄 LICENSE
-┣ 📄 .gitignore
+
 ┣ 📄 Project_Report.pdf
-┣ 📄 Summer_Internship_Report.docx
+
 ┣ 📄 Poster.pdf
+
 ┗ 📄 Project_Dashboard.pbix
+
+┗ 📄 Project_Dataset.xlsx
+
 
 
 ## 📜 License
