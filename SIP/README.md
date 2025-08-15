@@ -38,7 +38,9 @@ The project focused on analyzing the distribution of inpatient cashless claims a
 - Implement automation for pre-authorization and claim documentation.  
 
 ## 📂 Repository Structure
-📁 SIP
+📂SIP
+
+┣ 📂 Image
 
 ┣ 📄 README.md
 
