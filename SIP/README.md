@@ -48,7 +48,7 @@ The project focused on analyzing the distribution of inpatient cashless claims a
 
 ┣ 📄 Poster.pdf
 
-┗ 📄 Project_Dashboard.pbix
+┣ 📄 Project_Dashboard.pbix
 
 ┗ 📄 Project_Dataset.xlsx
 
